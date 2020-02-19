@@ -1,5 +1,5 @@
 # Thesis
-My Thesis
+
 The results of comparison, by objective and subjective assessment of sound quality, of signals processing algorithms in the multi-microphone arrays are refined. Comparison of two algorithms of space-time processing based on the criterion of the quality of the music signal distorted by additive interference allows us to recommend a simpler, from the point of the calculations view, algorithm of the sum and delays instead of the more complicated competitive algorithm.
 
 References:
